@@ -1,3 +1,5 @@
-# Epoch Psychology
+# Existential Psychology Is Changing (EPIC) Project
 
-COMING SOON....(probably mid December 2023)
+<div id="header" align="center">
+<img src="https://giphy.com/embed/vmpD7oogmtjGg" width="700" height="300">
+</div>
