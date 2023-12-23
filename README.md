@@ -29,7 +29,7 @@ order, with the optional personal information survey always being the final part
 level, age, gender, native language, religion, sexual orientation, ethnicity, nationality,
 marital status, number of children, number of siblings, and university major (if applicable)).
 
-**Last Update: December 11th, 2023**
+**Last Update: December 23rd, 2023**
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXl5cTRia2Q0dnEzYWdrMzFlZDkwN29pdGtrZGJ0dTl3dnVkenF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O3pR48VrAqirjZhOyE/giphy.gif" width="700" height="300">
 </div>
