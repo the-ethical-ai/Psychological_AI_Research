@@ -22,8 +22,8 @@ potential collaborators in January 2024).
 
 Data collection is expected to begin in January/February 2024 (I am currently working
 on a way to administer the questionnaire, obtain the time data, and ensure data
-privacy/security). The questionnaire is expected to contain the MACH-IV questions+survey, 
-the SD3 questions, a loneliness assessment questionnaire (most likely the UCLA Loneliness Scale), and a time tracker component (time to answer individual questions + time to 
+privacy/security; likely to be distributed using Qualtrics). The questionnaire is expected to contain the MACH-IV questions+survey, 
+the SD3 questions, the UCLA Loneliness Scale, and a time tracker component (time to answer individual questions + time to 
 complete sections). Questions will be presented in English and will be shown in random 
 order, with the optional personal information survey always being the final part (education
 level, age, gender, native language, religion, sexual orientation, ethnicity, nationality,
@@ -39,6 +39,8 @@ marital status, number of children, number of siblings, and university major (if
 I am currently exploring approximately 73K responses to the MACH-IV psychological assessment (with an additional optional survey) collected between 2017-2019 ([Data Source](https://www.kaggle.com/datasets/mathurinache/machivallianism-test)). I aim to identify robust and informative clusters in the data and provide supportive (and easily intelligible) visuals to better understand the behaviors/beliefs of those displaying above/below "normal" levels of Machiavellianism.
 
 For now, I am using Jupyter Notebooks to develop and present my work. The first version (which will include significant code and preliminary comments) of this analysis is currently expected to be released in early January 2024. 
+
+I am also finalizing the questionnaire + survey for live data collection. All questions have been collected/written; I am just working on which platform is best for hosting.
 
 ## History of the Project
 
