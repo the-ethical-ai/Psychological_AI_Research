@@ -26,3 +26,10 @@
 - Updated task list
 - Notebook adjustments made for better readability (may be recombined later)
 - Programming work resumed; cleaning process continues
+
+### December 24th-29th, 2023
+
+- SD3 data cleaned and added as separate jupyter notebook
+- Added codebooks (explanations of datasets) for sd3 and mach-iv datasets
+
+
